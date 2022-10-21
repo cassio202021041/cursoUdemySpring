@@ -1,0 +1,16 @@
+2022-09-27 09:23:27.317  INFO 8141 --- [restartedMain] com.curso.CursoUdemyApplication          : Starting CursoUdemyApplication using Java 1.8.0_202 on Mini-de-Cassio with PID 8141 (/Users/cassiomoreiradesouza/eclipse-workspace/curso-udemy/target/classes started by cassiomoreiradesouza in /Users/cassiomoreiradesouza/eclipse-workspace/curso-udemy)
+2022-09-27 09:23:27.320 DEBUG 8141 --- [restartedMain] com.curso.CursoUdemyApplication          : Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-09-27 09:23:27.322  INFO 8141 --- [restartedMain] com.curso.CursoUdemyApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-09-27 09:23:27.991  INFO 8141 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-27 09:23:27.992  INFO 8141 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-27 09:23:36.463  INFO 8141 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-09-27 09:23:36.693  INFO 8141 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-27 09:23:36.702  INFO 8141 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-27 09:23:36.995  INFO 8141 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-27 09:23:37.027  INFO 8141 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 9033 ms
+2022-09-27 09:23:40.898  INFO 8141 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-09-27 09:23:41.218  INFO 8141 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-27 09:23:41.343  INFO 8141 --- [restartedMain] com.curso.CursoUdemyApplication          : Started CursoUdemyApplication in 15.996 seconds (JVM running for 21.08)
+2022-09-27 09:23:41.376  INFO 8141 --- [restartedMain] com.curso.CursoUdemyApplication          : Finalizando o valor RUN
+2022-09-27 12:08:21.470  INFO 8141 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-09-27 12:08:21.726  INFO 8141 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
